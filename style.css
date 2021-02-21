@@ -93,11 +93,7 @@ transform: scale(1.1);
     background: #232731; /* Цвет фона */
     margin-right: 10px; /* Отступ справа */
     margin-bottom: 10px; /* Отступ снизу */
-    border-radius: 50px;
-    
-    
-    
-    
+    border-radius: 50px; 
      
  }
  P{
@@ -123,9 +119,7 @@ transform: scale(1.1);
  .media li:hover{
      transform: scale(1.2);
  }
- @media{
-     
- }
+
  
 
 
